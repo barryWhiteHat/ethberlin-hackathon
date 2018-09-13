@@ -7,7 +7,7 @@ Our wallet managing contracts address here https://rinkeby.etherscan.io/address/
 #### [bakend](https://github.com/BANKEX/ethberlin-hackathon/tree/backend) - 60 commits
 Our backend written with node.js
 
-#### [ecdsa](https://github.com/BANKEX/ethberlin-hackathon/tree/ecdsa) - 27 commits
+#### [ecdsa](https://github.com/BANKEX/ethberlin-hackathon/tree/eddsa) - 27 commits
 
 Libsnark implementation to proove statistic functions from our voting
 
